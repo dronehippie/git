@@ -1,0 +1,6 @@
+title: git
+description: Drone plugin provided by Webhippie
+baseurl: /git
+
+email: mail@webhippie.de
+theme: jekyll-theme-cayman
